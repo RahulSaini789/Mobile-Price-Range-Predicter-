@@ -10,5 +10,4 @@ In 1979, Nippon Telegraph and Telephone (NTT) launched the world's first cellula
 
 In first quarter of 2016, the top smartphone developers worldwide were Samsung, Apple, and Huawei, and smartphone sales represented 78 percent of total mobile phone sales. For feature phones (or "dumbphones") as of 2016, the largest were Samsung, Nokia, and Alcatel.
 
-![Alt text](image.png)
 
